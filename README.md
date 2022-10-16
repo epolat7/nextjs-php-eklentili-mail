@@ -1,5 +1,5 @@
 
-## NextJS - PHP ile Eklentili Mail gönderme
+## NextJS - PHP ile Mail gönderme (Eklentili)
 
 
 
